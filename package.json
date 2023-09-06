@@ -9,6 +9,8 @@
   "categories": [
     "Themes"
   ],
+  "icon": "yezi.png",
+  "homepage": "https://github.com/jianmofeng/theme",
   "contributes": {
     "themes": [
       {
@@ -17,5 +19,9 @@
         "path": "./themes/Green Citrus Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jianmofeng/theme"
   }
 }
